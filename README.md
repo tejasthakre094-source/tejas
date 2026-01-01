@@ -1,4 +1,4 @@
 # tejas
 This is my first Repository.
 <br>
-Author - Tejas Thakre
+Author - Tejas Thakre (IT)
